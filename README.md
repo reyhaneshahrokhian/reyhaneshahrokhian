@@ -1,8 +1,7 @@
 ### <h2 align="center">Hi there 👋 I'm Reyhane Shahrokhian</h2>
 
 <h3 align="center">A Computer Engineering Student at Iran University of Science and Technology👨‍💻</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=reyhaneshahrokhian alt=reyhaneshahrokhian/> </p>
-
+<p align="center">🔭 I’m currently working on Deep Learning and NLP<br><br></p>
 
 
 ## Connect with me  
@@ -46,6 +45,8 @@
 </div>
 
 ## Github Stats  
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=reyhaneshahrokhian alt=reyhaneshahrokhian/> </p>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reyhaneshahrokhian&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=reyhaneshahrokhian&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
