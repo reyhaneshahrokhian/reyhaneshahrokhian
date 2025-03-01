@@ -1,6 +1,6 @@
 ### <h2 align="center">Hi there 👋 I'm Reyhane Shahrokhian</h2>
 
-<h3 align="center">A Computer Engineering Student at Iran University of Science and Technology👨‍💻</h3>
+<h3 align="center">A Computer Engineer from Iran University of Science and Technology👨‍💻</h3>
 <p align="center">🔭 I’m currently working on NLP and Computer Vision<br><br></p>
 
 
